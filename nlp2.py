@@ -171,5 +171,3 @@ inputProHam = hamProbabilityCal(input2Bigram,"Sentence 2 Probability ")
 inputProSpam = spamProbabilityCal(input2Bigram,"Sentence 2 Probability ")
 checkSpamOrHam(inputProHam,inputProSpam,inputS2)
 
-
-    #fullCorpus["TokenizedMessageBody"].apply(lambda a: groupMsg(a))
